@@ -1,0 +1,37 @@
+[25-Dec-2020 03:47:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/tazakoom/public_html/Flash/api/users.php on line 34
+[25-Dec-2020 03:47:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:34) in /home/tazakoom/public_html/Flash/api/users.php on line 39
+[25-Dec-2020 03:47:44 UTC] PHP Notice:  Undefined variable: user in /home/tazakoom/public_html/Flash/api/users.php on line 20
+[25-Dec-2020 03:47:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:17) in /home/tazakoom/public_html/Flash/api/users.php on line 23
+[25-Dec-2020 03:50:20 UTC] PHP Notice:  Undefined variable: user in /home/tazakoom/public_html/Flash/api/users.php on line 21
+[25-Dec-2020 03:50:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:18) in /home/tazakoom/public_html/Flash/api/users.php on line 24
+[25-Dec-2020 03:50:36 UTC] PHP Notice:  Undefined variable: user in /home/tazakoom/public_html/Flash/api/users.php on line 21
+[25-Dec-2020 03:50:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:18) in /home/tazakoom/public_html/Flash/api/users.php on line 24
+[25-Dec-2020 03:51:55 UTC] PHP Notice:  Undefined variable: user in /home/tazakoom/public_html/Flash/api/users.php on line 21
+[25-Dec-2020 03:51:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:18) in /home/tazakoom/public_html/Flash/api/users.php on line 24
+[25-Dec-2020 03:52:01 UTC] PHP Notice:  Undefined variable: user in /home/tazakoom/public_html/Flash/api/users.php on line 21
+[25-Dec-2020 03:52:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:18) in /home/tazakoom/public_html/Flash/api/users.php on line 24
+[25-Dec-2020 03:55:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tazakoom/public_html/Flash/api/users.php on line 5
+[25-Dec-2020 03:55:45 UTC] PHP Notice:  Undefined variable: user in /home/tazakoom/public_html/Flash/api/users.php on line 24
+[25-Dec-2020 03:55:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:5) in /home/tazakoom/public_html/Flash/api/users.php on line 27
+[25-Dec-2020 03:56:19 UTC] PHP Notice:  Undefined variable: user in /home/tazakoom/public_html/Flash/api/users.php on line 22
+[25-Dec-2020 03:56:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:19) in /home/tazakoom/public_html/Flash/api/users.php on line 25
+[25-Dec-2020 03:58:51 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/api/users.php on line 22
+[25-Dec-2020 03:58:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:22) in /home/tazakoom/public_html/Flash/api/users.php on line 25
+[25-Dec-2020 03:59:00 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/api/users.php on line 22
+[25-Dec-2020 03:59:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:22) in /home/tazakoom/public_html/Flash/api/users.php on line 25
+[25-Dec-2020 04:48:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/tazakoom/public_html/Flash/api/users.php on line 35
+[25-Dec-2020 04:48:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:35) in /home/tazakoom/public_html/Flash/api/users.php on line 40
+[25-Dec-2020 04:51:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/tazakoom/public_html/Flash/api/users.php on line 35
+[25-Dec-2020 04:51:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:35) in /home/tazakoom/public_html/Flash/api/users.php on line 40
+[25-Dec-2020 10:33:53 UTC] PHP Notice:  Array to string conversion in /home/tazakoom/public_html/Flash/api/cards.php on line 13
+[25-Dec-2020 10:34:08 UTC] PHP Notice:  Array to string conversion in /home/tazakoom/public_html/Flash/api/cards.php on line 13
+[25-Dec-2020 10:57:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/tazakoom/public_html/Flash/api/users.php on line 35
+[25-Dec-2020 10:57:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:35) in /home/tazakoom/public_html/Flash/api/users.php on line 40
+[27-Dec-2020 16:59:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/tazakoom/public_html/Flash/api/users.php on line 35
+[27-Dec-2020 16:59:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:35) in /home/tazakoom/public_html/Flash/api/users.php on line 40
+[28-Dec-2020 14:55:47 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/tazakoom/public_html/Flash/api/cards.php on line 11
+[28-Dec-2020 15:21:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/tazakoom/public_html/Flash/api/cards.php on line 44
+[28-Dec-2020 15:47:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/tazakoom/public_html/Flash/api/users.php on line 35
+[28-Dec-2020 15:47:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/users.php:35) in /home/tazakoom/public_html/Flash/api/users.php on line 40
+[20-Jan-2021 07:32:03 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/api/topics.php on line 23
+[20-Jan-2021 07:32:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/api/topics.php:23) in /home/tazakoom/public_html/Flash/api/topics.php on line 30

@@ -1,0 +1,277 @@
+body {
+	font-family: 'Roboto';
+	background-color: #FEFEFE;
+	margin:0;
+	padding: 0;
+	height: 100%;
+	overflow: hidden;
+
+}
+
+div {
+	margin:0px;
+	padding: 0px;
+}
+
+h2 {
+	font-weight: 200;
+	margin:0;
+	padding: 0;
+}
+
+ input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.show {
+	display: block;
+}
+
+#topContainer {
+	height: 90px;
+	background-color: white;
+	padding: 0px;
+	display: fixed;
+	-webkit-box-shadow: 2px 3px 19px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 2px 3px 19px 0px rgba(0,0,0,0.2);
+	box-shadow: 2px 3px 19px 0px rgba(0,0,0,0.2);
+}
+
+#colorBar {
+	height: 5px;
+	background-color: #E53750;
+}
+
+#title, #topics {
+	display: inline-block;
+}
+
+#topics {
+	float: right;
+	margin-right: 6%;
+	color: #1582D4;
+	font-size: 20px;
+	font-weight: 200;
+	width: 10%;
+	height: 40px;
+	line-height: 40px;
+	margin-top: 18px;
+	text-align: center; 
+    border: 2.8px groove #FA8072;}
+
+#topics:hover {
+	cursor: pointer;
+}
+
+#title {
+	line-height: 85px;
+	margin-left: 3.6%;
+	font-weight: 200;
+	font-size: 27px;
+}
+
+#container, #sideDiv {
+	display: inline-block;
+}
+
+#sideDiv {
+	width: 12%;
+	height: 40%;
+	margin-left: 4%;
+	margin-top: 160px;
+	background-color: white;
+	position: fixed;
+	text-align: center;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.15);
+	-moz-box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.15);
+	box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.15);
+}
+
+#newCard {
+	margin:auto;
+	margin-top: 30px;
+	height: 60px;
+  	border: 0px solid #DCDCDC;
+  	border-radius: 0px;
+  	background-color: white;
+  	font-size: 40px;
+   	font-weight: 500;
+   	color: #1582D4;
+   	width: 60px;
+}
+
+#newCard:hover {
+	cursor: pointer;
+	font-size: 48px;
+}
+
+#displayCount {
+	margin:auto;
+	margin-top: 30px;
+	font-weight: 200;
+	font-size: 18px;
+	height: 70px;
+	width: 70px;
+	border: 2px solid #FEAD31;
+	border-radius: 50%;
+	line-height: 70px;
+}
+
+#card {
+	text-align: center;
+	margin: auto;
+	margin-left: 25%;
+	margin-top: 7%;
+	border: 0px solid #DCDCDC;
+	border-radius: 15px;
+	width: 50%;
+	height: 440px;
+	background-color: white;
+	position: absolute;
+	-webkit-box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.15);
+	-moz-box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.15);
+	box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.15);
+}
+
+#altCard {
+	text-align: center;
+	margin: auto;
+	margin-left: 25%;
+	margin-top: 7%;
+	border: 0px solid #DCDCDC;
+	border-radius: 15px;
+	width: 50%;
+	height: 440px;
+	background-color: white;
+	position: absolute;
+	display: none;
+}
+
+#card, #newCardDiv {
+	display: inline-block;
+}
+
+#newCardForm {
+	
+}
+
+#newCardDiv {
+	text-align: center;
+	margin:auto;
+	margin-top: 7%;
+	border: 0px solid #DCDCDC;
+	border-radius: 15px;
+	width: 50%;
+	height: 440px;
+	background-color: white;
+	margin-left: 10%;
+	opacity: 0;
+	position: absolute;
+	-webkit-box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.15);
+	-moz-box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.15);
+	box-shadow: 0px 0px 30px 2px rgba(0,0,0,0.15);
+}
+
+#newCardDiv input {
+	display: inline-block;
+	width: 90%;
+	height: 60px;
+	text-align: center;
+	margin:auto;
+	border: 3px solid #DCDCDC;
+	border-radius: 10px;
+	font-size: 20px;
+	font-weight: 200;
+}
+
+::-webkit-input-placeholder {
+   font-size: 20px;
+   font-weight: 200;
+}
+
+#cardDisplay {
+	line-height: 440px;
+}
+
+#altCardDisplay {
+	line-height: 440px;
+}
+
+#previousCard {
+	float: left;
+	margin-left:10%;
+}
+
+#nextCard {
+	float: right;
+	margin-right: 10%;
+}
+
+#previousCard, #nextCard, #flipCard {
+	line-height: 50px;
+}
+
+#cardInteract {
+	margin:auto;
+	margin-left: 25%;
+	margin-top: 590px;
+	text-align: center;
+	border-radius: 15px;
+	height: 70px;
+	width: 50%;
+	position: absolute;
+}
+
+#cardInteract button {
+	height: 60px;
+  	border: 0px solid #DCDCDC;
+  	border-radius: 0px;
+  	background-color: #FEAD31;
+  	font-size: 14px;
+   	font-weight: 400;
+   	color: white;
+   	width: 60px;
+   	border-radius: 50%;
+   	position: relative;
+}
+
+#cardInteract button:hover {
+	cursor: pointer;
+}
+
+#options {
+	margin:auto;
+	width: 100%;
+	text-align: center;
+	margin-top: 40px;
+}
+
+#options button {
+	height: 40px;
+	width: 85%;
+	margin:auto;
+	margin-top: 30px;
+	border:none;
+	border-radius: 0px;
+	font-weight: 400;
+	font-size: 18px;
+	background-color: #FEAD31;
+	color: white;
+}
+
+#options button:hover {
+	cursor: pointer;
+}
+
+#shuffle, #studyOppositeSide {
+	display: block;
+}
+

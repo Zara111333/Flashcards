@@ -1,0 +1,153 @@
+[25-Dec-2020 03:45:12 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 6
+[25-Dec-2020 03:45:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:6) in /home/tazakoom/public_html/Flash/index.php on line 10
+[25-Dec-2020 04:05:39 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 6
+[25-Dec-2020 04:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:6) in /home/tazakoom/public_html/Flash/index.php on line 10
+[25-Dec-2020 04:06:57 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 6
+[25-Dec-2020 04:06:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:6) in /home/tazakoom/public_html/Flash/index.php on line 10
+[25-Dec-2020 04:07:26 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 6
+[25-Dec-2020 04:07:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:6) in /home/tazakoom/public_html/Flash/index.php on line 10
+[25-Dec-2020 04:07:41 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 6
+[25-Dec-2020 04:07:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:6) in /home/tazakoom/public_html/Flash/index.php on line 10
+[25-Dec-2020 04:17:42 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 6
+[25-Dec-2020 04:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:6) in /home/tazakoom/public_html/Flash/index.php on line 10
+[25-Dec-2020 04:17:52 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 6
+[25-Dec-2020 04:17:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:6) in /home/tazakoom/public_html/Flash/index.php on line 10
+[25-Dec-2020 04:17:57 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 6
+[25-Dec-2020 04:17:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:6) in /home/tazakoom/public_html/Flash/index.php on line 10
+[25-Dec-2020 04:32:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/tazakoom/public_html/Flash/index.php on line 61
+[25-Dec-2020 04:32:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/tazakoom/public_html/Flash/index.php on line 61
+[25-Dec-2020 04:32:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/tazakoom/public_html/Flash/index.php on line 61
+[25-Dec-2020 04:41:43 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 04:41:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 04:51:10 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 04:51:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 06:30:19 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 06:30:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 06:30:30 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 06:30:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 07:20:47 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 07:20:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 07:21:40 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 07:21:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 07:21:42 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 07:21:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 07:41:45 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 07:41:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 08:33:42 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 08:33:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 08:49:33 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 08:49:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 08:49:43 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 08:49:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 09:07:08 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 09:07:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 09:44:21 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 09:44:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 09:44:31 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 09:44:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 09:58:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decoded() in /home/tazakoom/public_html/Flash/study.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tazakoom/public_html/Flash/study.php on line 18
+[25-Dec-2020 10:03:37 UTC] PHP Warning:  Illegal string offset 'title' in /home/tazakoom/public_html/Flash/study.php on line 19
+[25-Dec-2020 10:03:46 UTC] PHP Warning:  Illegal string offset 'title' in /home/tazakoom/public_html/Flash/study.php on line 19
+[25-Dec-2020 10:34:06 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 10:34:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 10:34:12 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 10:34:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 10:39:14 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 10:39:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 10:41:33 UTC] PHP Notice:  Array to string conversion in /home/tazakoom/public_html/Flash/study.php on line 29
+[25-Dec-2020 10:43:11 UTC] PHP Notice:  Array to string conversion in /home/tazakoom/public_html/Flash/study.php on line 82
+[25-Dec-2020 10:43:14 UTC] PHP Notice:  Array to string conversion in /home/tazakoom/public_html/Flash/study.php on line 82
+[25-Dec-2020 10:43:30 UTC] PHP Notice:  Array to string conversion in /home/tazakoom/public_html/Flash/study.php on line 82
+[25-Dec-2020 10:43:33 UTC] PHP Notice:  Array to string conversion in /home/tazakoom/public_html/Flash/study.php on line 82
+[25-Dec-2020 10:43:37 UTC] PHP Notice:  Array to string conversion in /home/tazakoom/public_html/Flash/study.php on line 82
+[25-Dec-2020 11:06:37 UTC] PHP Notice:  Undefined index: topic_id in /home/tazakoom/public_html/Flash/study.php on line 5
+[25-Dec-2020 11:06:37 UTC] PHP Notice:  Undefined index: title in /home/tazakoom/public_html/Flash/study.php on line 6
+[25-Dec-2020 11:10:17 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/tazakoom/public_html/Flash/study.php on line 26
+[25-Dec-2020 11:46:12 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 11:46:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 11:46:13 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 11:46:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 11:48:22 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 11:48:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[25-Dec-2020 11:48:25 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[25-Dec-2020 11:48:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[28-Dec-2020 14:02:00 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 90
+[28-Dec-2020 14:02:34 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 90
+[28-Dec-2020 14:02:54 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 90
+[28-Dec-2020 14:03:46 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 90
+[28-Dec-2020 14:03:58 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 90
+[28-Dec-2020 14:05:46 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 90
+[28-Dec-2020 14:30:27 UTC] PHP Notice:  Undefined variable: ch in /home/tazakoom/public_html/Flash/study.php on line 16
+[28-Dec-2020 14:30:27 UTC] PHP Warning:  curl_errno() expects parameter 1 to be resource, null given in /home/tazakoom/public_html/Flash/study.php on line 16
+[28-Dec-2020 14:30:27 UTC] PHP Notice:  Undefined variable: id in /home/tazakoom/public_html/Flash/study.php on line 21
+[28-Dec-2020 14:30:27 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 91
+[28-Dec-2020 14:30:58 UTC] PHP Notice:  Undefined variable: id in /home/tazakoom/public_html/Flash/study.php on line 21
+[28-Dec-2020 14:30:58 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 91
+[28-Dec-2020 14:31:44 UTC] PHP Notice:  Undefined variable: id in /home/tazakoom/public_html/Flash/study.php on line 21
+[28-Dec-2020 14:31:44 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 91
+[28-Dec-2020 14:33:19 UTC] PHP Notice:  Undefined variable: id in /home/tazakoom/public_html/Flash/study.php on line 21
+[28-Dec-2020 14:33:19 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 91
+[28-Dec-2020 14:33:53 UTC] PHP Notice:  Undefined variable: id in /home/tazakoom/public_html/Flash/study.php on line 21
+[28-Dec-2020 14:33:53 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 91
+[28-Dec-2020 14:33:57 UTC] PHP Notice:  Undefined variable: id in /home/tazakoom/public_html/Flash/study.php on line 21
+[28-Dec-2020 14:33:57 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 91
+[28-Dec-2020 14:36:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tazakoom/public_html/Flash/study.php on line 30
+[28-Dec-2020 14:36:49 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 86
+[28-Dec-2020 14:39:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_dencode() in /home/tazakoom/public_html/Flash/study.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/tazakoom/public_html/Flash/study.php on line 26
+[28-Dec-2020 14:39:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 30
+[28-Dec-2020 14:39:20 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 86
+[28-Dec-2020 14:39:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 30
+[28-Dec-2020 14:39:34 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 86
+[28-Dec-2020 14:43:29 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 89
+[28-Dec-2020 14:50:29 UTC] PHP Fatal error:  Cannot use [] for reading in /home/tazakoom/public_html/Flash/study.php on line 31
+[28-Dec-2020 14:50:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 14:52:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 14:59:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 15:00:30 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 89
+[28-Dec-2020 15:00:34 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 89
+[28-Dec-2020 15:01:51 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 89
+[28-Dec-2020 15:02:50 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 89
+[28-Dec-2020 15:02:53 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 89
+[28-Dec-2020 15:03:08 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 89
+[28-Dec-2020 15:03:10 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 89
+[28-Dec-2020 15:03:12 UTC] PHP Notice:  Undefined variable: rows in /home/tazakoom/public_html/Flash/study.php on line 89
+[28-Dec-2020 15:04:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 15:05:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 15:05:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 15:05:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 15:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 15:06:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 15:06:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 15:06:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 15:06:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/tazakoom/public_html/Flash/study.php on line 33
+[28-Dec-2020 15:07:22 UTC] PHP Notice:  Undefined variable: id in /home/tazakoom/public_html/Flash/study.php on line 20
+[28-Dec-2020 15:07:25 UTC] PHP Notice:  Undefined variable: id in /home/tazakoom/public_html/Flash/study.php on line 20
+[28-Dec-2020 15:08:43 UTC] PHP Parse error:  syntax error, unexpected '=', expecting end of file in /home/tazakoom/public_html/Flash/study.php on line 5
+[28-Dec-2020 15:40:18 UTC] PHP Notice:  Undefined index: topic_id in /home/tazakoom/public_html/Flash/study.php on line 5
+[28-Dec-2020 15:40:18 UTC] PHP Notice:  Undefined index: title in /home/tazakoom/public_html/Flash/study.php on line 6
+[28-Dec-2020 15:40:54 UTC] PHP Notice:  Undefined index: topic_id in /home/tazakoom/public_html/Flash/study.php on line 5
+[28-Dec-2020 15:40:54 UTC] PHP Notice:  Undefined index: title in /home/tazakoom/public_html/Flash/study.php on line 6
+[29-Dec-2020 06:59:58 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[29-Dec-2020 06:59:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[29-Dec-2020 07:51:22 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[29-Dec-2020 07:51:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[29-Dec-2020 07:51:30 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[29-Dec-2020 07:51:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[20-Jan-2021 07:31:41 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[20-Jan-2021 07:31:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[20-Jan-2021 07:31:50 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[20-Jan-2021 07:31:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[20-Jan-2021 07:37:05 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[20-Jan-2021 07:37:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[20-Jan-2021 07:37:05 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[20-Jan-2021 07:37:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[20-Jan-2021 07:37:08 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[20-Jan-2021 07:37:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
+[20-Jan-2021 07:37:10 UTC] PHP Notice:  Undefined index: id in /home/tazakoom/public_html/Flash/index.php on line 5
+[20-Jan-2021 07:37:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/Flash/index.php:5) in /home/tazakoom/public_html/Flash/index.php on line 9
